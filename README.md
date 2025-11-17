@@ -1,7 +1,7 @@
 
 # **Transatlantic Enslaving Voyages**
 
-## **📌 Overview**
+## ** Overview**
 The goal is to analyze **how the scale, routes, demographics, and mortality of voyages evolved over time**, and how **major historical events** reshaped the global slave-trading system.
 
 The dashboards highlight:
