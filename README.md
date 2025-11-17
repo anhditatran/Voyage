@@ -4,6 +4,9 @@
 ## Overview
 The goal is to analyze **how the scale, routes, demographics, and mortality of voyages evolved over time**, and how **major historical events** reshaped the global slave-trading system.
 
+**Data Source**
+🔗 https://drive.google.com/file/d/1cEqvj8NiY731mf-6grvlwqo1P4WgWAeo/view?usp=sharing
+
 The dashboards highlight:
 * Changes in embarked slave volume before/after major world events
 * Shifts in national market share among European empires
@@ -11,9 +14,6 @@ The dashboards highlight:
 * Demographic composition of enslaved people by region and decade
 * Geographic mapping of routes and survival outcomes
   
-**Data Source**
-🔗 https://drive.google.com/file/d/1cEqvj8NiY731mf-6grvlwqo1P4WgWAeo/view?usp=sharing
-
 ---
 
 ## **Key Dashboards & Insights**
