@@ -1,7 +1,7 @@
 
 # **Transatlantic Enslaving Voyages**
 
-## ** Overview**
+## Overview
 The goal is to analyze **how the scale, routes, demographics, and mortality of voyages evolved over time**, and how **major historical events** reshaped the global slave-trading system.
 
 The dashboards highlight:
@@ -75,7 +75,7 @@ This dashboard gives a **route-specific, analyst-style exploration** of the mari
 
 ---
 
-## **🕰️ Historical Context**
+## **Historical Context**
 
 The transatlantic slave trade evolved in distinct phases:
 
@@ -128,7 +128,7 @@ The project applies a data-analyst framework:
 
 ---
 
-## ** Conclusion**
+## **Conclusion**
 
 This Tableau project reveals how the transatlantic slave trade shifted in response to **global political events, colonial competition, and abolition movements**.
 It highlights patterns in **mortality, demographics, and logistics**, showing the scale and human cost of the system.
